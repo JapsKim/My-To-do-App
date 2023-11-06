@@ -10,6 +10,12 @@ npm install
 npm run serve
 ```
 
+##instalaltion de bootstrap 5
+``` 
+npm install bootstrap
+```
+##Configuré ensuite l'installation dans le fichier main.js
+
 ### Compiles and minifies for production
 ```
 npm run build

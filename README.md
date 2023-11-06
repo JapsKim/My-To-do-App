@@ -5,16 +5,17 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-##instalaltion de bootstrap 5
+#instalaltion de bootstrap 5
+
 ``` 
 npm install bootstrap
 ```
-##Configuré ensuite l'installation dans le fichier main.js
+#Configuré ensuite l'installation dans le fichier main.js
 
 ### Compiles and minifies for production
 ```
